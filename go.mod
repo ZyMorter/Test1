@@ -1,3 +1,3 @@
-module zyonmorter.net/greeting
+module zyonmorter.net/bio
 
 go 1.20
